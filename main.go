@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	mymath "example.com/test/math"
-	mytry "example.com/test/try"
+	mymath "github.com/risqiikhsani/golang-playground/math"
+	mytry "github.com/risqiikhsani/golang-playground/try"
 )
 
 type Car struct {
